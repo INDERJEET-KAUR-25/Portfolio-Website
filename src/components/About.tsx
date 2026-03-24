@@ -26,8 +26,8 @@ export default function About() {
           </p>
           
           <a
-            href="/Resume.pdf"
-            download
+            href="/CV2025.pdf" 
+            download="Inderjeet_Kaur_CV.pdf"
             className="inline-flex items-center gap-2 px-6 py-3 bg-white text-black font-medium rounded-full hover:bg-white/80 transition-colors"
           >
             <Download size={20} />
