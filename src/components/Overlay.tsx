@@ -35,7 +35,7 @@ export default function Overlay() {
           Inderjeet Kaur
         </h1>
         <p className="mt-4 text-xl md:text-2xl text-gray-300 font-light tracking-wide">
-          Machine Learning & Software Developer
+          Computer Science Student & Software Developer
         </p>
       </motion.div>
 
